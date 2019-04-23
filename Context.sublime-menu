@@ -1,0 +1,6 @@
+[
+    {
+    	"caption": "[WIP] Go to file",
+        "command": "sublime_go_to_file"
+    }
+]
